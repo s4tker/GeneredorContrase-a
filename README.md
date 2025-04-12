@@ -13,8 +13,8 @@ cd GeneredorContrase-a
 
 # Ejecuta el generador (usa 'python' o 'python3' según tu sistema)
 # En Linux/macOS:
-python3 generador.py
+python3 password.py
 
 # En Windows (CMD o PowerShell):
-python generador.py
+python password.py 
 ```
