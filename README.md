@@ -9,7 +9,7 @@ Este es un sencillo generador de contraseñas aleatorias desarrollado en Python.
 git clone https://github.com/s4tker/GeneredorContrase-a.git
 
 # Entra al directorio del proyecto
-cd GeneredorContrase-a
+cd GeneradorContrase-a
 
 # Ejecuta el generador (usa 'python' o 'python3' según tu sistema)
 # En Linux/macOS:
